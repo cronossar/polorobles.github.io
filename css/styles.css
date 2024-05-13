@@ -94,6 +94,12 @@ main {
     color: #fff;
 }
 
+/* MENU DE TORTA */
+.bars{
+    display: none;
+  }
+
+
 /* MAIN- DANIEL */
 .hero{
     width: 100%;
@@ -353,3 +359,4 @@ border-collapse: collapse;}
 .mapa_merlo{
     border-radius: 3px;
 }
+
