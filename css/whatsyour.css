@@ -123,8 +123,8 @@ main {
 
 
 img{
-    height: 300px;
-    width: 300px;
+    height: 280px;
+    width: 280px;
 }
 
 .portfolio{
@@ -184,8 +184,8 @@ img{
 }
 .caption-style-1 .blur{
     background-color: rgba(0,0,0,0.65);
-    height: 300px;
-    width: 300px;
+    height: 280px;
+    width: 280px;
     z-index: 5;
     position: absolute;
 }
